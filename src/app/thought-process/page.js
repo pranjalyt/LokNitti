@@ -51,10 +51,10 @@ export default function ThoughtProcess() {
               The Origin: A Problem, Not a Model
             </h2>
             <p className="text-lg text-muted-foreground mb-6">
-              We didn't start with the goal of deploying the heaviest AI model; we started with a clear, critical challenge presented by the Smart India Hackathon (SIH 35): <strong>How do we transform chaotic public opinion into confident, actionable policy?</strong>
+              We didn&apos;t start with the goal of deploying the heaviest AI model; we started with a clear, critical challenge presented by the Smart India Hackathon (SIH 35): <strong>How do we transform chaotic public opinion into confident, actionable policy?</strong>
             </p>
             <p className="text-lg text-muted-foreground">
-              We realized the core issue wasn't a lack of data, but that the existing system failed the policy analysts responsible for synthesizing it.
+              We realized the core issue wasn&apos;t a lack of data, but that the existing system failed the policy analysts responsible for synthesizing it.
             </p>
           </div>
         </motion.section>
