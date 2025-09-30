@@ -70,13 +70,13 @@ export default function ThoughtProcess() {
           <div className="bg-card p-8 rounded-lg shadow-lg">
             <h2 className="text-3xl font-bold mb-6 text-foreground flex items-center">
               <Users className="w-8 h-8 text-primary mr-3" />
-              The Analyst's Dilemma (The 'Priya Sharma' Problem)
+              The Analyst&apos;s Dilemma (The &apos;Priya Sharma&apos; Problem)
             </h2>
             <p className="text-lg text-muted-foreground mb-6">
               We centered our entire design around a single user: the dedicated policy analyst, like <strong>Priya Sharma at the Ministry of Corporate Affairs (MCA)</strong>.
             </p>
             <p className="text-lg text-muted-foreground mb-6">
-              Priya's crucial job—reading thousands of submissions (PDFs, emails, forms) and synthesizing them into a concise report for senior officials—is currently manual and impossible:
+              Priya&apos;s crucial job—reading thousands of submissions (PDFs, emails, forms) and synthesizing them into a concise report for senior officials—is currently manual and impossible:
             </p>
             <div className="bg-secondary p-6 rounded-lg mb-6">
               <p className="text-lg text-foreground mb-4">
@@ -102,7 +102,7 @@ export default function ThoughtProcess() {
               </ul>
             </div>
             <p className="text-lg text-muted-foreground">
-              The outcome: Weeks of mental fatigue, high risk of missing a "hidden gem" (a brilliant suggestion buried in a long document), and immense pressure due to tight legislative deadlines.
+              The outcome: Weeks of mental fatigue, high risk of missing a &quot;hidden gem&quot; (a brilliant suggestion buried in a long document), and immense pressure due to tight legislative deadlines.
             </p>
           </div>
         </motion.section>
@@ -158,7 +158,7 @@ export default function ThoughtProcess() {
               Our Design Philosophy: Smart, Layered, Solved
             </h2>
             <p className="text-lg text-muted-foreground mb-6">
-              Our belief is that the best solution is the one that is smart, horizontally scalable, and directly solves the user's specific pain—not the one that relies on brute-force processing.
+              Our belief is that the best solution is the one that is smart, horizontally scalable, and directly solves the user&apos;s specific pain—not the one that relies on brute-force processing.
             </p>
           </div>
         </motion.section>
@@ -241,7 +241,7 @@ export default function ThoughtProcess() {
             </p>
             <div className="bg-secondary p-6 rounded-lg mb-6">
               <p className="text-lg text-foreground mb-4">
-                <strong>The Innovation:</strong> The Relevance Engine (Layer 4). This layer is not about complex new algorithms; it's about introducing policy logic into the scoring.
+                <strong>The Innovation:</strong> The Relevance Engine (Layer 4). This layer is not about complex new algorithms; it&apos;s about introducing policy logic into the scoring.
               </p>
               <p className="text-lg text-foreground">
                 By using a Domain-Specific Weight Matrix, we ensure the final score reflects the true balance of opinion among the people who matter most. This is the difference between a neutral report and an actionable recommendation.
@@ -261,7 +261,7 @@ export default function ThoughtProcess() {
           <div className="bg-gradient-to-r from-primary/10 to-secondary/10 p-8 rounded-lg">
             <h2 className="text-3xl font-bold mb-6 text-foreground">The Outcome: Transforming Chaos into Confidence</h2>
             <p className="text-lg text-muted-foreground mb-6">
-              Our solution transforms Priya's chaotic, stressful, and error-prone process into one that is efficient, insightful, and data-driven.
+              Our solution transforms Priya&apos;s chaotic, stressful, and error-prone process into one that is efficient, insightful, and data-driven.
             </p>
             <p className="text-xl text-foreground font-semibold">
               LokNiti is not just an AI tool; it is a tool that empowers public servants like Priya Sharma to create better laws for the country.
