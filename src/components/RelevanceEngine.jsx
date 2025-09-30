@@ -17,13 +17,14 @@ export default function RelevanceEngine() {
 
         <div className="max-w-4xl mx-auto space-y-12">
           {/* Key Takeaway */}
-          <div className="text-center bg-gradient-to-r from-primary/10 to-secondary/10 p-8 rounded-lg card-shadow">
-            <h3 className="text-xl font-semibold mb-4 text-foreground">The LokNiti Advantage</h3>
-            <p className="text-muted-foreground max-w-2xl mx-auto">
+          <div className="bg-card p-6 rounded-lg text-center card-shadow">
+            <h3 className="text-xl font-semibold mb-2 text-card-foreground">The LokNiti Advantage</h3>
+            <p className="text-muted-foreground">
               By combining stakeholder relevance, sentiment analysis, fact vs emotion detection, clustering, and trend tracking, LokNiti turns raw public feedback into clear, actionable insights, helping policymakers prioritize what truly matters and make informed decisions with confidence.
             </p>
           </div>
         </div>
+
       </div>
     </section>
   );

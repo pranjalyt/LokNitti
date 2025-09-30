@@ -374,7 +374,7 @@ export default function Examples() {
             </div>
           </motion.div>
 
-          {/* The LokNiti Advantage Banner */}
+          {/* The LokNiti Advantage Banner
           <motion.div 
             className="text-center bg-gray-50 dark:bg-gradient-to-r dark:from-primary/10 dark:to-secondary/10 p-8 rounded-lg card-shadow mt-16"
             variants={itemVariants}
@@ -386,9 +386,9 @@ export default function Examples() {
               </h3>
             </div>
             <p className="text-muted-foreground max-w-2xl mx-auto">
-              By weighting comments based on stakeholder relevance, LokNiti transforms ambiguous data into clear, actionable policy insights that traditional counting methods miss.
+              Byfd weighting comments based on stakeholder relevance, LokNiti transforms ambiguous data into clear, actionable policy insights that traditional counting methods miss.
             </p>
-          </motion.div>
+          </motion.div> */}
         </motion.div>
       </div>
     </section>
